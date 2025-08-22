@@ -5,8 +5,8 @@ The main goal of this work is to explore how evolutionary pressures have shaped 
 
 # Repository Scope
 
-## Latin American Map of Selective Pressure
-A visual representation of genomic regions under selection across different populations in Latin America. This map allows for an intuitive understanding of geographic and population-level patterns.
+## Map of documented Adaptive Section in Latin Americans 
+A visual representation of geogrphic distribution of populations in Latin America that have been under adaptive selection that was detected through genomic scans selection signatures. This map allows for an intuitive understanding of geographic and population-level patterns.
 
 ## Curated Data Table
 A comprehensive table compiling the genetic loci, populations studied, and associated selective pressures. This dataset is the foundation from which the map was built and serves as a resource for further analysis and reproducibility.
