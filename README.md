@@ -12,7 +12,7 @@ The main goal of this work is to explore how evolutionary pressures have shaped 
 
 A visual representation of the geographic distribution of populations in Latin America that have been under adaptive selection that was detected through genomic scans and selection signatures. This map allows for an intuitive understanding of geographic and population-level patterns.
 
-##Sources data
+## Source data
 
 This map was created from a curated data table compiling the genetic loci, populations studied, and associated selective pressures that we identified in the scientific literature by August 2025. This dataset is made available for further analysis and reproducibility in [this file](SelectionStudies.md).
 
