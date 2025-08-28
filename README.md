@@ -14,7 +14,7 @@ A visual representation of the geographic distribution of populations in Latin A
 
 ## Source data
 
-This map was created from a curated data table compiling the genetic loci, populations studied, and associated selective pressures that we identified in the scientific literature by August 2025. This dataset is made available for further analysis and reproducibility in [this file](SelectionStudies.md).
+This map was created from a curated data table compiling the genetic loci, populations studied, and associated selective pressures that we identified in the scientific literature by August 2025. This dataset is made available for further analysis and reproducibility [here](SelectionStudies.md).
 
 # Objectives
 
