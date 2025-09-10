@@ -8,7 +8,7 @@ The main goal of this work is to explore how evolutionary pressures have shaped 
 
 ## Map of documented Adaptive Selection in Latin Americans
 
-![Figure 1](Files/Map_Selection_final_v2.png)
+![Figure 1](Files/Figure_2.1_SelectionMap.png)
 
 A visual representation of the geographic distribution of populations in Latin America that have been under adaptive selection that was detected through genomic scans and selection signatures. This map allows for an intuitive understanding of geographic and population-level patterns.
 
