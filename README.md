@@ -6,11 +6,18 @@ The main goal of this work is to explore how evolutionary pressures have shaped 
 
 # Repository Scope
 
-## Map of documented Adaptive Section in Latin Americans
+## Map of documented Adaptive Selection in Latin Americans
 
 ![Figure 1](Files/Map_Selection_final_v2.png)
 
 A visual representation of the geographic distribution of populations in Latin America that have been under adaptive selection that was detected through genomic scans and selection signatures. This map allows for an intuitive understanding of geographic and population-level patterns.
+
+## Interactive Map of Adaptive Selection in Latin Americans
+
+[![Interactive Map Thumbnail](Files/Map_Selection_final_v2.png)](https://github.com/u-genoma/SelectionMapLatam/blob/main/Files/Selection_Map.html)
+
+*Figure 2. Interactive version of the map showing populations in Latin America with evidence of adaptive selection. Hover or click on each point to explore geographic coordinates, selective pressures, and bibliographic references.*
+
 
 ## Source data
 
