@@ -15,8 +15,6 @@ A visual representation of the geographic distribution of populations in Latin A
 ## Interactive Map of Adaptive Selection in Latin Americans
 
 👉 [Open Interactive Map](https://u-genoma.github.io/SelectionMapLatam/Selection_Map.html)
-<a href="https://u-genoma.github.io/SelectionMapLatam/Selection_Map.html" target="_blank" title="Open Interactive Map">Open Interactive Map</a>
-
 *Figure 2. Interactive version of the map showing populations in Latin America with evidence of adaptive selection. Hover or click on each point to explore geographic coordinates, selective pressures, and bibliographic references.*
 
 ## Source data
