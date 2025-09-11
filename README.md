@@ -1,4 +1,4 @@
-# SelectionMapLatam
+selective pressures# SelectionMapLatam
 
 This repository accompanies the chapter “Evidence and Impact of Natural Selection in Latin American Populations” from the book Human Genetics in Latin America – Latin American Admixture and Human Diseases.
 
@@ -14,7 +14,7 @@ A visual representation of the geographic distribution of populations in Latin A
 
 ## Interactive Map of Adaptive Selection in Latin Americans
 
-👉 [Open Interactive Map](Files/Selection_Map.html)
+👉 <a href="Files/Selection_Map.html" title="Open Interactive Map">Open Interactive Map</a>
 
 *Figure 2. Interactive version of the map showing populations in Latin America with evidence of adaptive selection. Hover or click on each point to explore geographic coordinates, selective pressures, and bibliographic references.*
 
