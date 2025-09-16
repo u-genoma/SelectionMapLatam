@@ -1,4 +1,4 @@
-selective pressures# SelectionMapLatam
+# SelectionMapLatam
 
 This repository accompanies the chapter “Evidence and Impact of Natural Selection in Latin American Populations” from the book Human Genetics in Latin America – Latin American Admixture and Human Diseases.
 
