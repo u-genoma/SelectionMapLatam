@@ -1,168 +1,193 @@
-Country	Locality	Population	Latitude	Longitude	Selective_Pressure	Population_Type	Method1	Method2	Method3	Study
-Bolivia	La_Paz	Aymara	-16.4897	-68.1193	Altitude	Native American	Diversity	Haplotype_based		Bigham_2009
-Peru	Cerro_de_Pasco	Quechua	-10.6878	-76.2627	Altitude	Native American	Diversity	Haplotype_based		Bigham_2009
-Argentina	Tucuman		-26.8083	-65.2176	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Argentina	Salta		-24.7857	-65.4126	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Argentina	Catamarca		-28.4696	-65.7792	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Brazil	Rio_Grande_do_Sul		-30.0346	-51.2177	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Chile	Quetalmahue		-41.8667	-73.8167	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Chile	Paposo		-25.0046	-70.4683	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Colombia	Pasto		1.2136	-77.2811	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Colombia	Medellin		6.2442	-75.5812	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Colombia	Cundinamarca		5	-74.1667	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Colombia	Peque		7.0167	-75.9167	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Costa_Rica	CVCR		9.7489	-83.7534	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Guatemala	Oriente		14.6333	-90	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Mexico	CDMX		19.4326	-99.1332	Immune Response	Admixed Population	Local_Deviation			Deng_2016
-Colombia	Medellin		6.2442	-75.5812	Immune Response	Admixed Population	Local_Deviation			Norris_2018
-Colombia	Medellin		6.2442	-75.5812	Pathogen Exposure	Admixed Population	Local_Deviation			Norris_2018
-Colombia	Medellin		6.2442	-75.5812	Drug Metabolism	Admixed Population	Local_Deviation			Norris_2018
-Mexico	Los_Angeles		34.0522	-118.2437	Immune Response	Admixed Population	Local_Deviation			Norris_2018
-Mexico	Los_Angeles		34.0522	-118.2437	Pathogen Exposure	Admixed Population	Local_Deviation			Norris_2018
-Mexico	Los_Angeles		34.0522	-118.2437	Drug Metabolism	Admixed Population	Local_Deviation			Norris_2018
-Peru	Lima		-12.0464	-77.0428	Immune Response	Admixed Population	Local_Deviation			Norris_2018
-Peru	Lima		-12.0464	-77.0428	Pathogen Exposure	Admixed Population	Local_Deviation			Norris_2018
-Peru	Lima		-12.0464	-77.0428	Drug Metabolism	Admixed Population	Local_Deviation			Norris_2018
-Puerto_Rico	Puerto_Rico		18.2208	-66.5901	Immune Response	Admixed Population	Local_Deviation			Norris_2018
-Puerto_Rico	Puerto_Rico		18.2208	-66.5901	Pathogen Exposure	Admixed Population	Local_Deviation			Norris_2018
-Puerto_Rico	Puerto_Rico		18.2208	-66.5901	Drug Metabolism	Admixed Population	Local_Deviation			Norris_2018
-Colombia	Medellin		6.2442	-75.5812	Immune Response	Admixed Population	Allele_Frequency	Haplotype_based		Norris_2020
-Mexico	Los_Angeles		34.0522	-118.2437	Immune Response	Admixed Population	Allele_Frequency	Haplotype_based		Norris_2020
-Peru	Lima		-12.0464	-77.0428	Immune Response	Admixed Population	Allele_Frequency	Haplotype_based		Norris_2020
-Puerto_Rico	Puerto_Rico		18.2208	-66.5901	Immune Response	Admixed Population	Allele_Frequency	Haplotype_based		Norris_2020
-Brazil	Guarani		-23.5505	-51.6706	Immune Response	Native American	Allele_Frequency			Single_2020
-Chile	Aymara		-19.0333	-68.6667	Immune Response	Native American	Allele_Frequency			Single_2020
-Chile	Huilliche		-40.5167	-73.5667	Immune Response	Native American	Allele_Frequency			Single_2020
-Colombia	Zenu		9.2361	-75.2406	Immune Response	Native American	Allele_Frequency			Single_2020
-Colombia	Embera		5.6667	-76.6667	Immune Response	Native American	Allele_Frequency			Single_2020
-Colombia	Waunana		5.6667	-76.6667	Immune Response	Native American	Allele_Frequency			Single_2020
-Costa_Rica	Cabecar		9.5833	-83.6667	Immune Response	Native American	Allele_Frequency			Single_2020
-Ecuador	Inga		-0.3667	-78.1667	Immune Response	Native American	Allele_Frequency			Single_2020
-Mexico	Mixtec		17.3333	-97.6667	Immune Response	Native American	Allele_Frequency			Single_2020
-Mexico	Mixe		16.9167	-96	Immune Response	Native American	Allele_Frequency			Single_2020
-Mexico	Zapotec		16.5	-96.5	Immune Response	Native American	Allele_Frequency			Single_2020
-Mexico	Kaqchikel		14.8	-90.9	Immune Response	Native American	Allele_Frequency			Single_2020
-Panama	Guaymi		8.6667	-81.8333	Immune Response	Native American	Allele_Frequency			Single_2020
-Paraguay	Ache		-25.25	-55.5	Immune Response	Native American	Allele_Frequency			Single_2020
-Peru	Quechua		-13	-72	Immune Response	Native American	Allele_Frequency			Single_2020
-Peru	Ticuna		-4	-70	Immune Response	Native American	Allele_Frequency			Single_2020
-Venezuela	Wayuu		11.6667	-72	Immune Response	Native American	Allele_Frequency			Single_2020
-Venezuela	Arhuaco		10.3333	-73.1667	Immune Response	Native American	Allele_Frequency			Single_2020
-Venezuela	Kogi		10.3333	-73.1667	Immune Response	Native American	Allele_Frequency			Single_2020
-Bolivia	El_Alto	Aymara	-16.5107	-68.1922	Altitude	Native American	Allele_Frequency	Haplotype_based		Valverde_2015
-Bolivia	Tiwanaku	Aymara	-16.5547	-68.6734	Altitude	Native American	Allele_Frequency	Haplotype_based		Valverde_2015
-Bolivia	La_Paz	Aymara	-16.4897	-68.1193	Altitude	Native American	Allele_Frequency	Haplotype_based		Valverde_2015
-Bolivia	Oruro-Soracachi	Quechua	-17.9833	-67.1167	Altitude	Native American	Allele_Frequency	Haplotype_based		Valverde_2015
-Brazil	Apalai		-1	-55	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Arara		-4	-53	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Asurini		-4	-51	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Gavião		-10	-61	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Guarani		-23	-54	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Karitiana		-9	-63	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Munduruku		-6	-59	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Parakanã		-5	-51	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Surui		-11	-62	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Tupiniquim		-20	-40	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Urubu_Kaapor		-2	-46	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Wajãpi		1	-53	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Xavante		-14	-52	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Xikrin		-6	-51	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Brazil	Zoro		-10	-60	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Couto_Silva_2023
-Mexico	Maya		19.5775	-88.0453	Pathogen Exposure	Native American	Diversity	Haplotype_based		Garcia_2023
-Mexico	Nahua		20.1369	-98.0586	Pathogen Exposure	Native American	Diversity	Haplotype_based		Garcia_2023
-Mexico	Mixtec		17.2686	-97.6808	Pathogen Exposure	Native American	Diversity	Haplotype_based		Garcia_2023
-Mexico	Tlapanec		17.5456	-98.5764	Pathogen Exposure	Native American	Diversity	Haplotype_based		Garcia_2023
-Peru	Cerro_de_Pasco		-10.6878	-76.2627	Altitude	Native American	Diversity			Zhou_2013
-Peru	Tiwanaku	Aymara	-16.5547	-68.6734	Altitude	Native American	Allele_Frequency			Crawford_2017
-Bolivia	La_Paz	Aymara	-16.4897	-68.1193	Altitude	Native American	Allele_Frequency			Crawford_2017
-Mexico	San_Lorenzo_Cuaunecuiltitla	Mazatlan	18.1964	-96.8625	Glucose Metabolism & T2D	Native American	Haplotype_based			Acosta_2017
-Mexico	Xoteapa	Nahua	20.1369	-98.0586	Glucose Metabolism & T2D	Native American	Haplotype_based			Acosta_2017
-Mexico	Oaxaca	Zapoteca	17.0317	-96.5208	Glucose Metabolism & T2D	Native American	Haplotype_based			Acosta_2017
-Mexico	CDMX		19.4326	-99.1332	Glucose Metabolism & T2D	Admixed Population	Haplotype_based			Acosta_2017
-Bolivia	El_Alto_surrogative	Aymara	-16.5107	-68.1922	Altitude	Native American	Allele_Frequency	Haplotype_based		Jacovas_2018
-Peru	El_Cuzco_surrogative	Quechua	-13.5319	-71.9675	Altitude	Native American	Allele_Frequency	Haplotype_based		Jacovas_2018
-Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Arsenic Exposure	Native American	Haplotype_based			Eichstaedt_2015
-Chile	Antofagasta		-23.6504	-70.3974	Thermoregulation	Admixed Population	Local_Deviation			Vicuña_2020
-Chile	Antofagasta		-23.6504	-70.3974	Immune Response	Admixed Population	Local_Deviation			Vicuña_2020
-Mexico	San_Felipe_del_Progreso	Mazahua	19.7124	-99.9515	Glucose Metabolism & T2D	Native American	Haplotype_based			Granados_2017
-Mexico	Tantoyuca	Teenek	21.35	-98.2333	Glucose Metabolism & T2D	Native American	Haplotype_based			Granados_2017
-Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Altitude	Native American	Haplotype_based			Eichstaedt_2014
-Peru	Cusco	Altiplano_Seco_Andino	-14	-71	Altitude	Native American	Allele_Frequency	Haplotype_based		Borda_2020
-Peru	Atalaya	Amazonia_Peruana	-9.5	-73.5	Pathogen Exposure	Native American	Allele_Frequency	Haplotype_based		Borda_2020
-Peru	Cusco	Altiplano_Andino	-13	-72	Altitude	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Cusco	Altiplano_Andino	-13	-72	Pathogen Exposure	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Cusco	Altiplano_Andino	-13	-72	Thermoregulation	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Cusco	Altiplano_Andino	-13	-72	Lipid Metabolism	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Chiclayo	Costa	-7	-80.5	Pathogen Exposure	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Chiclayo	Costa	-7	-80.5	Altitude	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Chiclayo	Costa	-7	-80.5	Pathogen Exposure	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Chiclayo	Costa	-7	-80.5	Lipid Metabolism	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Loreto	Selva_Peruana	-7	-75	Pathogen Exposure	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Peru	Loreto	Selva_Peruana	-7	-75	Lipid Metabolism	Admixed Population	Allele_Frequency	Haplotype_based		Caro-Consuegra_2022
-Ecuador	Atahualpa		-2	-80.7465	Lipid Metabolism	Native American	Allele_Frequency			Brandt_2025
-Mexico	Sierra_Tarahumara	Rarámuri	27.75	-107.6333	Long-Distance Running	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	Sierra_Tarahumara	Rarámuri	27.75	-107.6333	Immune Response	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	San_Juan_Copala	Triqui	17.3167	-98.0167	Height	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	San_Juan_Copala	Triqui	17.3167	-98.0167	Immune Response	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	San_Andres_Cohamiata	Huicholes	22.2333	-104.1	Lipid Metabolism	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	San_Andres_Cohamiata	Huicholes	22.2333	-104.1	Lipid Metabolism	Native American	Allele_Frequency			Ávila-Arcos_2020
-Mexico	San_Andres_Cohamiata	Huicholes	22.2333	-104.1	Immune Response	Native American	Allele_Frequency			Ávila-Arcos_2020
-Ecuador	Kichwa		-1.7344	-77.4889	Altitude	Native American	Haplotype_based			Joseph_2023
-Ecuador	Kichwa		-1.7344	-77.4889	Tuberculosis Resistance	Native American	Haplotype_based	Local_Deviation	Composite_Lik_Method	Joseph_2023
-Ecuador	Loja		-3.9833	-79.2	Tuberculosis Resistance	Native American	Haplotype_based	Local_Deviation	Composite_Lik_Method	Joseph_2023
-Ecuador	Kichwa		-1.7344	-77.4889	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2010
-Mexico	Nahua		20.1369	-98.0586	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2010
-Mexico	Zapotec		16.5	-96.5	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2011
-Mexico	Maya		19.5775	-88.0453	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2012
-Mexico	Nahua		20.1369	-98.0586	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2013
-Mexico	Totonaca		20.4478	-97.32	Maize Domestication & Co-evolution	Native American	Haplotype_based	Composite_Lik_Method		Acuña-Alonzo_2014
-Chile	Antofagasta		-23.6504	-70.3974	Immune Response	Admixed Population	Allele_Frequency			Vicuña_2019
-Chile	Antofagasta		-23.6504	-70.3974	Arsenic Exposure	Admixed Population	Allele_Frequency	Local_Deviation		Vicuña_2019
-Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Arsenic Exposure	Native American	Haplotype_based	Composite_Lik_Method		Schlebusch_2015
-Chile	Santiago		-33.4489	-70.6693	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Chile	Concepción		-36.8267	-73.0503	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Chile	Santiago		-33.4489	-70.6693	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Chile	Concepción		-36.8267	-73.0503	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Colombia	Bogota		4.711	-74.0721	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Colombia	Medellin		6.2442	-75.5812	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	CDMX		19.4326	-99.1332	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	Guadalajara		20.6597	-103.3496	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	Monterrey		25.6866	-100.3161	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	CDMX		19.4326	-99.1332	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	Guadalajara		20.6597	-103.3496	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	Monterrey		25.6866	-100.3161	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Peru	Lima		-12.0464	-77.0428	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Peru	Arequipa		-16.409	-71.5375	Immune Response	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Peru	Lima		-12.0464	-77.0428	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Peru	Arequipa		-16.409	-71.5375	Diet	Admixed Population	Composite_Lik_Method			Mendoza-Revilla_2022
-Mexico	Zapotec		16.5	-96.5	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Mexico	Maya		19.5775	-88.0453	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Mexico	Nahua		20.1369	-98.0586	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Mexico	Totonaca		20.4478	-97.32	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Mexico	Kaqchikel		14.8	-90.9	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Costa_Rica	Cabecar		9.5	-83.5667	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Panama	Guaymi		8.6667	-81.8333	Maize Domestication & Co-evolution	Native American	Allele_Frequency	Haplotype_based		Hünemeier_2012
-Brazil	Noreste	Bahía, Ceará	-8.3516	-38.514	Pathogen Exposure	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Noreste	Bahía, Ceará	-8.3516	-38.514	Fertility	Admixed Population	Local_Deviation			Nunez_2025
-Brazil	Noreste	Bahía, Ceará	-8.3516	-38.514	Immune Response	Admixed Population	Local_Deviation			Nunez_2025
-Brazil	Noreste	Bahía, Ceará	-8.3516	-38.514	Energy Metabolism	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Sureste	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	-21.6973	-43.2635	Pathogen Exposure	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Sureste	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	-21.6973	-43.2635	Fertility	Admixed Population	Local_Deviation			Nunez_2025
-Brazil	Sureste	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	-21.6973	-43.2635	Immune Response	Admixed Population	Local_Deviation			Nunez_2025
-Brazil	Sureste	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	-21.6973	-43.2635	Energy Metabolism	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Norte	Amazonas, Pará	-2.2874	-54.2559	Fertility	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Norte	Amazonas, Pará	-2.2874	-54.2559	Energy Metabolism	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Sur	Rio Grande do Sul	-30.0346	-51.2177	Immune Response	Admixed Population	Composite_Lik_Method			Nunez_2025
-Brazil	Sur	Rio Grande do Sul	-30.0346	-51.2177	Fertility	Admixed Population	Local_Deviation			Nunez_2025
-Brazil	Sur	Rio Grande do Sul	-30.0346	-51.2177	Energy Metabolism	Admixed Population	Local_Deviation			Nunez_2025
-Chile	Laitec	Chono	-42.85	-73.65	Height	Admixed Population	Allele_Frequency	Haplotype_based		Pezo_2025
-Chile	Laitec	Chono	-42.85	-73.65	Lipid Metabolism	Admixed Population	Allele_Frequency			Pezo_2025
-Chile	Laitec	Chono	-42.85	-73.65	Immune Response	Admixed Population	Local_Deviation			Pezo_2025
-Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Height	Admixed Population	Allele_Frequency	Haplotype_based		Pezo_2025
-Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Lipid Metabolism	Admixed Population	Allele_Frequency			Pezo_2025
-Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Immune Response	Admixed Population	Local_Deviation			Pezo_2025
-Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Height	Admixed Population	Allele_Frequency	Haplotype_based		Pezo_2025
-Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Lipid Metabolism	Admixed Population	Allele_Frequency			Pezo_2025
-Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Immune Response	Admixed Population	Local_Deviation			Pezo_2025
-Argentina	Chubut	Tehuelches	-43.3	-65.1	Height	Admixed Population	Allele_Frequency	Haplotype_based		Pezo_2025
-Argentina	Chubut	Tehuelches	-43.3	-65.1	Immune Response	Admixed Population	Local_Deviation			Pezo_2025
+Country	Locality	Population	Latitude	Longitude	Selection_Trait	Population_Type	Gene Candidates	Method1	Method2	Method3	Methods	Study
+Argentina	Tucuman	NA	-26.8083	-65.2176	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Argentina	Salta	NA	-24.7857	-65.4126	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Argentina	Catamarca	NA	-28.4696	-65.7792	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Brazil	Rio_Grande_do_Sul	NA	-30.0346	-51.2177	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Chile	Quetalmahue	NA	-41.8667	-73.8167	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Chile	Paposo	NA	-25.0046	-70.4683	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Colombia	Pasto	NA	1.2136	-77.2811	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Colombia	Medellin	NA	6.2442	-75.5812	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Colombia	Cundinamarca	NA	5	-74.1667	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Colombia	Peque	NA	7.0167	-75.9167	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Costa_Rica	CVCR	NA	9.7489	-83.7534	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Guatemala	Oriente	NA	14.6333	-90	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Mexico	CDMX	NA	19.4326	-99.1332	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Deng_2016
+Colombia	Medellin	NA	6.2442	-75.5812	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Colombia	Medellin	NA	6.2442	-75.5812	Pathogen Exposure	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Colombia	Medellin	NA	6.2442	-75.5812	Drug Metabolism	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Mexico	Los_Angeles	NA	34.0522	-118.2437	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Mexico	Los_Angeles	NA	34.0522	-118.2437	Pathogen Exposure	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Mexico	Los_Angeles	NA	34.0522	-118.2437	Drug Metabolism	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Peru	Lima	NA	-12.0464	-77.0428	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Peru	Lima	NA	-12.0464	-77.0428	Pathogen Exposure	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Peru	Lima	NA	-12.0464	-77.0428	Drug Metabolism	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Puerto_Rico	Puerto_Rico	NA	18.2208	-66.5901	Immune Response	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Puerto_Rico	Puerto_Rico	NA	18.2208	-66.5901	Pathogen Exposure	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Puerto_Rico	Puerto_Rico	NA	18.2208	-66.5901	Drug Metabolism	Admixed Population	Immune_System	Local_Deviation	NA	NA	Local_Deviation	Norris_2018
+Colombia	Medellin	NA	6.2442	-75.5812	Immune Response	Admixed Population	HLA-A, HLA-B, HLA-C, HLA-DRB1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Norris_2020
+Mexico	Los_Angeles	NA	34.0522	-118.2437	Immune Response	Admixed Population	HLA-A, HLA-B, HLA-C, HLA-DRB1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Norris_2020
+Peru	Lima	NA	-12.0464	-77.0428	Immune Response	Admixed Population	HLA-A, HLA-B, HLA-C, HLA-DRB1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Norris_2020
+Puerto_Rico	Puerto_Rico	NA	18.2208	-66.5901	Immune Response	Admixed Population	HLA-A, HLA-B, HLA-C, HLA-DRB1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Norris_2020
+Brazil	NA	Guarani	-23.5505	-51.6706	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Chile	NA	Aymara	-19.0333	-68.6667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Chile	NA	Huilliche	-40.5167	-73.5667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Colombia	NA	Zenu	9.2361	-75.2406	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Colombia	NA	Embera	5.6667	-76.6667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Colombia	NA	Waunana	5.6667	-76.6667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Costa_Rica	NA	Cabecar	9.5833	-83.6667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Ecuador	NA	Inga	-0.3667	-78.1667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Mexico	NA	Mixtec	17.3333	-97.6667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Mexico	NA	Mixe	16.9167	-96	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Mexico	NA	Zapotec	16.5	-96.5	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Mexico	NA	Kaqchikel	14.8	-90.9	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Panama	NA	Guaymi	8.6667	-81.8333	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Paraguay	NA	Ache	-25.25	-55.5	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Peru	NA	Quechua	-13	-72	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Peru	NA	Ticuna	-4	-70	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Venezuela	NA	Wayuu	11.6667	-72	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Venezuela	NA	Arhuaco	10.3333	-73.1667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Venezuela	NA	Kogi	10.3333	-73.1667	Immune Response	NAM	HLA-A, HLA-DRB1, HLA-DRB5	Allele_Frequency	NA	NA	Allele_Frequency	Single_2020
+Bolivia	El_Alto	Aymara	-16.5107	-68.1922	Altitude Adaptation	NAM	FAM213A, SFTPD	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Valverde_2015
+Bolivia	Tiwanaku	Aymara	-16.5547	-68.6734	Altitude Adaptation	NAM	FAM213A, SFTPD	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Valverde_2015
+Bolivia	La_Paz	Aymara	-16.4897	-68.1193	Altitude Adaptation	NAM	FAM213A, SFTPD	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Valverde_2015
+Bolivia	Oruro-Soracachi	Quechua	-17.9833	-67.1167	Altitude Adaptation	NAM	FAM213A, SFTPD	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Valverde_2015
+Brazil	Apalai	NA	-1	-55	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Arara	NA	-4	-53	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Asurini	NA	-4	-51	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Gavião	NA	-10	-61	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Guarani	NA	-23	-54	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Karitiana	NA	-9	-63	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Munduruku	NA	-6	-59	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Parakanã	NA	-5	-51	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Surui	NA	-11	-62	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Tupiniquim	NA	-20	-40	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Urubu_Kaapor	NA	-2	-46	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Wajãpi	NA	1	-53	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Xavante	NA	-14	-52	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Xikrin	NA	-6	-51	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Brazil	Zoro	NA	-10	-60	Pathogen Exposure	NAM	PPP3CA, DYNC1I1, NOS1AP	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Couto-Silva_2023
+Mexico	Yucatán	Maya	19.5775	-88.0453	Pathogen Exposure	NAM	PPARG, HLA-DPA1, HLA-DPB1, etc	Diversity	Haplotype_based	NA	Diversity, Haplotype_based	Garcia_2023
+Mexico	Guerrero	Nahua	20.1369	-98.0586	Pathogen Exposure	NAM	PPARG, HLA-DPA1, HLA-DPB1, etc	Diversity	Haplotype_based	NA	Diversity, Haplotype_based	Garcia_2023
+Mexico	Guerrero	Mixtec	17.2686	-97.6808	Pathogen Exposure	NAM	PPARG, HLA-DPA1, HLA-DPB1, etc	Diversity	Haplotype_based	NA	Diversity, Haplotype_based	Garcia_2023
+Mexico	Guerrero	Tlapanec	17.5456	-98.5764	Pathogen Exposure	NAM	PPARG, HLA-DPA1, HLA-DPB1, etc	Diversity	Haplotype_based	NA	Diversity, Haplotype_based	Garcia_2023
+Peru	Cerro_de_Pasco	NA	-10.6878	-76.2627	Altitude Adaptation	NAM	SENP1	Diversity	NA	NA	Diversity	Zhou_2013
+Peru	Tiwanaku	Aymara	-16.5547	-68.6734	Altitude Adaptation	NAM	NOS2, TBX5	Allele_Frequency	NA	NA	Allele_Frequency	Crawford_2017
+Bolivia	La_Paz	Aymara	-16.4897	-68.1193	Altitude Adaptation	NAM	NOS2, TBX5	Allele_Frequency	NA	NA	Allele_Frequency	Crawford_2017
+Mexico	San_Lorenzo_Cuaunecuiltitla	Mazatlan	18.1964	-96.8625	Glucose Metabolism & T2D	NAM	TCF7L2	Haplotype_based	NA	NA	Haplotype_based	Acosta_2017
+Mexico	Xoteapa	Nahua	20.1369	-98.0586	Glucose Metabolism & T2D	NAM	TCF7L2	Haplotype_based	NA	NA	Haplotype_based	Acosta_2017
+Mexico	Oaxaca	Zapoteca	17.0317	-96.5208	Glucose Metabolism & T2D	NAM	TCF7L2	Haplotype_based	NA	NA	Haplotype_based	Acosta_2017
+Mexico	CDMX	NA	19.4326	-99.1332	Glucose Metabolism & T2D	Admixed Population	TCF7L2	Haplotype_based	NA	NA	Haplotype_based	Acosta_2017
+Bolivia	El_Alto_surrogative	Aymara	-16.5107	-68.1922	Altitude Adaptation	NAM	DUOX2, AS3MT, TMEM38B	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Jacovas_2018
+Peru	El_Cuzco_surrogative	Quechua	-13.5319	-71.9675	Altitude Adaptation	NAM	DUOX2, AS3MT, TMEM38B	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Jacovas_2018
+Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Arsenic Exposure	NAM	AS3MT	Haplotype_based	NA	NA	Haplotype_based	Eichstaedt_2015
+Chile	Antofagasta	NA	-23.6504	-70.3974	Thermoregulation	Admixed Population	KITLG	Local_Deviation	NA	NA	Local_Deviation	Vicuña_2020
+Mexico	San_Felipe_del_Progreso	Mazahua	19.7124	-99.9515	Glucose Metabolism & T2D	NAM	HNF4A	Haplotype_based	NA	NA	Haplotype_based	Granados-Silvestre_2017
+Mexico	Tantoyuca	Teenek	21.35	-98.2333	Glucose Metabolism & T2D	NAM	HNF4A	Haplotype_based	NA	NA	Haplotype_based	Granados-Silvestre_2017
+Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Altitude Adaptation	NAM	VEGFB, ELTD1, ADGRL4	Haplotype_based	NA	NA	Haplotype_based	Eichstaedt_2014
+Peru	Cusco	NA	-14	-71	Altitude Adaptation	NAM	DUOX2	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Borda_2020
+Peru	Atalaya	NA	-9.5	-73.5	Pathogen Exposure	NAM	PTPRC	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Borda_2020
+Peru	Cusco	NA	-13	-72	Altitude Adaptation	Admixed Population	TBX5, PLXNA4, SGCD, GLIS3	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Peru	Cusco	NA	-13	-72	Pathogen Exposure	Admixed Population	DUOX1, DUOXA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Peru	Cusco	NA	-13	-72	Thermoregulation	Admixed Population	DUOX1, DUOXA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Peru	Chiclayo	NA	-7	-80.5	Pathogen Exposure	Admixed Population	DUOX1, DUOXA1, HLA-DMA, HLA-DOA, ICAM1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Peru	Chiclayo	NA	-7	-80.5	Thermoregulation	Admixed Population	DUOX1, DUOXA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Peru	Loreto	NA	-7	-75	Pathogen Exposure	Admixed Population	CBLB, HLA-DOA	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Caro-Consuegra_2022
+Ecuador	Atahualpa	NA	-2	-80.7465	Lipid Metabolism	NAM	SUFU, LRP1B, FAM189B, LDLRAP1, etc	Allele_Frequency	NA	NA	Allele_Frequency	Brandt_2025
+Mexico	Sierra_Tarahumara	Rarámuri	27.75	-107.6333	Immune Response	NAM	SYT5	Allele_Frequency	NA	NA	Allele_Frequency	Ávila-Arcos_2020
+Mexico	San_Juan_Copala	Triqui	17.3167	-98.0167	Immune Response	NAM	SYT5	Allele_Frequency	NA	NA	Allele_Frequency	Ávila-Arcos_2020
+Mexico	San_Andres_Cohamiata	Huicholes	22.2333	-104.1	Lipid Metabolism	NAM	HSD17B11, APOA1, APOA2, APOA4, APOA5, ABCG5	Allele_Frequency	NA	NA	Allele_Frequency	Ávila-Arcos_2020
+Mexico	San_Andres_Cohamiata	Huicholes	22.2333	-104.1	Immune Response	NAM	SYT5	Allele_Frequency	NA	NA	Allele_Frequency	Ávila-Arcos_2020
+Ecuador	Kichwa	NA	-1.7344	-77.4889	Altitude Adaptation	NAM	EGLN3	Haplotype_based	NA	NA	Haplotype_based	Joseph_2023
+Ecuador	Kichwa	NA	-1.7344	-77.4889	Tuberculosis Resistance	NAM	PDE11A	Haplotype_based	Local_Deviation	Composite_Lik_Method	Haplotype_based, Local_Deviation, Composite_Lik_Method	Joseph_2023
+Ecuador	Loja	NA	-3.9833	-79.2	Tuberculosis Resistance	NAM	CD44, SLC8A1	Haplotype_based	Local_Deviation	Composite_Lik_Method	Haplotype_based, Local_Deviation, Composite_Lik_Method	Joseph_2023
+Ecuador	Kichwa	NA	-1.7344	-77.4889	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Mexico	NA	Nahua	20.1369	-98.0586	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Mexico	NA	Zapotec	16.5	-96.5	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Mexico	NA	Maya	19.5775	-88.0453	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Mexico	NA	Nahua	20.1369	-98.0586	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Mexico	NA	Totonaca	20.4478	-97.32	Maize Domestication & Co-evolution	NAM	ABCA1	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Acuña-Alonzo_2010
+Argentina	San_Antonio_de_los_Cobres	Colla	-24.2184	-63.32	Arsenic Exposure	NAM	AS3MT	Haplotype_based	Composite_Lik_Method	NA	Haplotype_based, Composite_Lik_Method	Schlebusch_2015
+Chile	Santiago	NA	-33.4489	-70.6693	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Chile	Concepción	NA	-36.8267	-73.0503	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Chile	Santiago	NA	-33.4489	-70.6693	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Chile	Concepción	NA	-36.8267	-73.0503	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Colombia	Bogota	NA	4.711	-74.0721	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Colombia	Medellin	NA	6.2442	-75.5812	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Colombia	Bogota	NA	4.711	-74.0721	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Colombia	Medellin	NA	6.2442	-75.5812	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	CDMX	NA	19.4326	-99.1332	Immune Response	Admixed Population	HLA-H, HLA-J, HLA-DMA	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	Guadalajara	NA	20.6597	-103.3496	Immune Response	Admixed Population	HLA-H, HLA-J, HLA-DMA	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	Monterrey	NA	25.6866	-100.3161	Immune Response	Admixed Population	HLA-H, HLA-J, HLA-DMA	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	CDMX	NA	19.4326	-99.1332	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	Guadalajara	NA	20.6597	-103.3496	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	Monterrey	NA	25.6866	-100.3161	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Peru	Lima	NA	-12.0464	-77.0428	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Peru	Arequipa	NA	-16.409	-71.5375	Immune Response	Admixed Population	HLA-H, HLA-J	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Peru	Lima	NA	-12.0464	-77.0428	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Peru	Arequipa	NA	-16.409	-71.5375	Diet	Admixed Population	ABCA1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Mendoza-Revilla_2022
+Mexico	NA	Zapotec	16.5	-96.5	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Mexico	NA	Maya	19.5775	-88.0453	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Mexico	NA	Nahua	20.1369	-98.0586	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Mexico	NA	Totonaca	20.4478	-97.32	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Mexico	NA	Kaqchikel	14.8	-90.9	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Costa_Rica	NA	Cabecar	9.5	-83.5667	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Panama	NA	Guaymi	8.6667	-81.8333	Maize Domestication & Co-evolution	NAM	ABCA1	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Hünemeier_2012
+Brazil	Bahía, Ceará	NA	-8.3516	-38.514	Pathogen Exposure	Admixed Population	MHC	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Bahía, Ceará	NA	-8.3516	-38.514	Fertility	Admixed Population	IMPG1, LINC00871	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Brazil	Bahía, Ceará	NA	-8.3516	-38.514	Immune Response	Admixed Population	ACSS1, MTMR3	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Brazil	Bahía, Ceará	NA	-8.3516	-38.514	Energy Metabolism	Admixed Population	AGAP1, HTR1B	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	NA	-21.6973	-43.2635	Pathogen Exposure	Admixed Population	MHC	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	NA	-21.6973	-43.2635	Fertility	Admixed Population	IMPG1, LINC00871	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Brazil	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	NA	-21.6973	-43.2635	Immune Response	Admixed Population	ACSS1, MTMR3	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Brazil	Espirito Santo, Minas Gerais, Rio de Janeiro, Sao Paulo	NA	-21.6973	-43.2635	Energy Metabolism	Admixed Population	AGAP1, HTR1B	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Amazonas, Pará	NA	-2.2874	-54.2559	Fertility	Admixed Population	IMPG1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Amazonas, Pará	NA	-2.2874	-54.2559	Energy Metabolism	Admixed Population	AGAP1, HTR1B	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Rio Grande do Sul	NA	-30.0346	-51.2177	Immune Response	Admixed Population	ACSS1	Composite_Lik_Method	NA	NA	Composite_Lik_Method	Nunes_2025
+Brazil	Rio Grande do Sul	NA	-30.0346	-51.2177	Fertility	Admixed Population	ACAC	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Brazil	Rio Grande do Sul	NA	-30.0346	-51.2177	Energy Metabolism	Admixed Population	ARHGAP11A	Local_Deviation	NA	NA	Local_Deviation	Nunes_2025
+Chile	Laitec	Chono	-42.85	-73.65	Height	Admixed Population	SUPT3H	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Pezo-Valderrama_2025
+Chile	Laitec	Chono	-42.85	-73.65	Lipid Metabolism	Admixed Population	MSMO1, ZNF202	Allele_Frequency	NA	NA	Allele_Frequency	Pezo-Valderrama_2025
+Chile	Laitec	Chono	-42.85	-73.65	Immune Response	Admixed Population	HLA	Local_Deviation	NA	NA	Local_Deviation	Pezo-Valderrama_2025
+Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Height	Admixed Population	SUPT3H	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Pezo-Valderrama_2025
+Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Lipid Metabolism	Admixed Population	MSMO1, ZNF202	Allele_Frequency	NA	NA	Allele_Frequency	Pezo-Valderrama_2025
+Chile	Punta Arenas	Kawésqar	-53.1638	-70.9171	Immune Response	Admixed Population	HLA	Local_Deviation	NA	NA	Local_Deviation	Pezo-Valderrama_2025
+Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Height	Admixed Population	SUPT3H	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Pezo-Valderrama_2025
+Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Lipid Metabolism	Admixed Population	MSMO1, ZNF202	Allele_Frequency	NA	NA	Allele_Frequency	Pezo-Valderrama_2025
+Chile	Villa Ukika	Yámana	-54.9333	-67.6167	Immune Response	Admixed Population	HLA	Local_Deviation	NA	NA	Local_Deviation	Pezo-Valderrama_2025
+Argentina	Chubut	Tehuelches	-43.3	-65.1	Height	Admixed Population	SUPT3H, RUNX2	Allele_Frequency	Haplotype_based	NA	Allele_Frequency, Haplotype_based	Pezo-Valderrama_2025
+Argentina	Chubut	Tehuelches	-43.3	-65.1	Immune Response	Admixed Population	HLA	Local_Deviation	NA	NA	Local_Deviation	Pezo-Valderrama_2025
+Ecuador	NA	Waorani	-1	-76.8333	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Watkins_1992
+Brazil	Rio das Cobras, Paraná state	Kaigang	-25.3	-50.9667	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Belich_1992
+Brazil	Rio das Cobras, Paraná state	Guarani	-25.3	-50.9667	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Belich_1992
+EEUU	Grand Canyon, Arizona	Havasupai	36.2364	-112.6892	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Parham_1997
+Brazil	Rio das Cobras, Paraná state	Kaigang	-25.3	-50.9667	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Parham_1997
+Brazil	Rio das Cobras, Paraná state	Guarani	-25.3	-50.9667	Immune Response	NAM	HLA-B	Allele Frequency-based	NA	NA	Allele Frequency-based	Parham_1997
+Brazil	Eteñitepa	Xavante	-13.3333	-51.6667	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Brazil	Amambai	Guarani	-23.1	-55.2	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Paraguay	Arroyo Bandera	Aché	-23.5	-55.8333	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Brazil	Mapuera Village	Wai Wai	-0.6667	-57.9167	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Brazil	Aripuana Park	Zoró	-10.3333	-60.3333	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Brazil	Sete de Setembro	Surui	-10.8333	-61.1667	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Brazil	Igarape Lourdes	Gavião	-10.1667	-61.1333	Diet	NAM	CYP1, GSTM1, GSTT1	Allele Frequency-based	NA	NA	Allele Frequency-based	Gaspar_2002
+Venezuela	NA	Yucpa	10.65	-72.6	Immune Response	NAM	KIR	Allele Frequency-based	NA	NA	Allele Frequency-based	Gendzekhadze_2006
+Venezuela	NA	Bari	9.4	-72.5	Immune Response	NAM	KIR	Allele Frequency-based	NA	NA	Allele Frequency-based	Gendzekhadze_2006
+Venezuela	NA	Warao	9	-61	Immune Response	NAM	KIR	Allele Frequency-based	NA	NA	Allele Frequency-based	Gendzekhadze_2006
+Brazil	Jandu Cachoeira	Baniwa	-3.9715	-62.8413	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Tres Unidos	Kanamari	-3.0958	-59.9853	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Morada Nova - Sete Estrelas	Katukina	-3.5114	-62.7842	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Cana Brava - Paredao	Kaxinawa	-8.7682	-67.3998	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Vida Nova	Marubo	-4.3722	-70.1456	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Belem - Bon Jardin - Campo Alegre - Feijoal - Maraja - Nova Italia - UmariaÇu - Vendaval	Ticuna	-4.1	-69.9	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Yaminawa	Yaminawa	-9.8547	-68.6592	Immune Response	NAM	HLA-G	Allele Frequency-based	NA	NA	Allele Frequency-based	Mendes-Junio_2007
+Brazil	Ivaí	Kaigang	-25.0131	-50.8589	Immune Response	NAM	MICA	Allele Frequency-based	NA	NA	Allele Frequency-based	Oliverira_2008
+Brazil	Rio das Cobras, Paraná state	Kaigang	-25.3	-50.9667	Immune Response	NAM	MICA	Allele Frequency-based	NA	NA	Allele Frequency-based	Oliverira_2008
+Brazil	Rio das Cobras, Paraná state	Guarani	-25.3	-50.9667	Immune Response	NAM	MICA	Allele Frequency-based	NA	NA	Allele Frequency-based	Oliverira_2008
+Brazil	Arara do Aranjal	Karib	-3.45	-52.7167	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Arara do Iriri	Karib	-4.35	-53.25	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Kayapó	Ge	-7.8333	-53.1667	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Xikrin	Ge	-6.9833	-51.0333	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Mapuera-Katuena	Karib	-1.25	-57.5	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Parakana	Tupi	-4.5833	-51.5833	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Brazil	Waiapi	Tupi	1.5	-52	Immune Response	NAM	CCR5	Allele Frequency-based	NA	NA	Allele Frequency-based	Ramalho_2010
+Peru	NA	Quechua	-14.2047	-72.0833	Altitude Adaptation	NAM	ACE, FGB	Allele Frequency-based	NA	NA	Allele Frequency-based	Rupert_2001
+Bolivia	NA	Aymara	-16.2	-69.4	Altitude Adaptation	NAM	ACE, FGB	Allele Frequency-based	NA	NA	Allele Frequency-based	Rupert_2001
